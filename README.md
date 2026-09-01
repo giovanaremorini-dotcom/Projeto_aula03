@@ -1,4 +1,4 @@
-# Projetos - Desafios
+# 📑Projetos - Desafios
 
 ## Sobre o projeto
 
@@ -53,7 +53,7 @@ Jogos = Vitórias + Empates + Derrotas
 Pontos = (Vitórias * 3) + (Empates * 1)
 ```
 
-## Tecnologias utilizadas
+## ⚙️Tecnologias utilizadas
 
 - Node.js
 - Visual Studio Code
